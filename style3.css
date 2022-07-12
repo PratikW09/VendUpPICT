@@ -1,0 +1,14 @@
+*{
+    background-color: rgba(176, 170, 163, 0.771);
+}
+.image{
+    padding: 2px;
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: rgb(7, 18, 176);
+    background-position: center;
+    background-size: 500px;
+    border: 2px solid rgb(12, 1, 1);
+}
+

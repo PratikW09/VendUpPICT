@@ -1,0 +1,132 @@
+/* *{
+    background-color: aquamarine;
+} */
+
+/* bavkgorunfd Text css */
+.T1{
+    margin-left: 1000px;
+    background-color: darkgray;
+    width: 300px;
+    height: 50px;
+    border: 2px solid rgb(8, 7, 7);
+    border-radius: 6px;
+
+}
+.T2{
+    margin-left: 1000px;
+
+}
+h1{
+    margin-left: 500px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 600;
+}
+.i1{
+    /* background-image: url(d1.img); */
+    padding:10px;
+    /* margin: 10px; */
+    border: 2px solid rgb(8, 7, 7);
+    /* background-color: blueviolet; */
+    height: 200px;
+    width: 300px;
+    border-color: yellow;
+    background-color: plum;
+    border-radius: 5px;
+    
+}
+.i2{  
+     padding:10px;
+     border: 2px solid rgb(8, 7, 7);
+     height: 200px;
+     width: 300px;
+     border-color: yellow;
+     background-color: plum;
+     border-radius: 5px;
+        
+}
+.i3{
+    padding:10px;
+     border: 2px solid rgb(8, 7, 7);
+     height: 200px;
+     width: 300px;
+     border-color: yellow;
+     background-color: plum;
+     border-radius: 5px;
+}
+.i4{
+    padding:10px;
+     border: 2px solid rgb(8, 7, 7);
+     height: 200px;
+     width: 300px;
+     border-color: yellow;
+     background-color: plum;
+     border-radius: 5px;
+
+}
+.i5{
+    padding:10px;
+     border: 2px solid rgb(8, 7, 7);
+     height: 200px;
+     width: 300px;
+     border-color: yellow;
+     background-color: plum;
+     border-radius: 5px;
+
+}
+/* .T1{
+    background-color: ;
+} */
+.btn1{
+    
+    display: flex;
+    background-color: yellow;
+    margin-left: 1000px;
+    margin-top:-10px ;
+    border: 4px solid black;
+    border-radius: 5px;
+    color: rgb(15, 124, 227);
+    cursor: pointer;
+    font-display:black;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.t2{
+    margin-left: 1000px;
+}
+.btn2{
+    
+    display: flex;
+    background-color: yellow;
+   margin-bottom: 10px;
+    margin-top:-10px ;
+    margin-left: 1000px;
+    border: 4px solid black;
+    border-radius: 5px;
+    color: rgb(15, 124, 227);
+    cursor: pointer;
+    font-display:black;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.btn1:hover{
+    color: black;
+    background-color: rgb(203, 8, 8)
+}
+
+.t1{
+    margin-top: -15pxpx;
+    margin-left: 1000px;
+    background-color: darkgray;
+    width: 300px;
+    height: 50px;
+    border: 2px solid rgb(8, 7, 7);
+    border-radius: 6px;
+}
+.btn2:hover{
+    color: black;
+    background-color: rgb(203, 8, 8)
+}
+.table{
+    margin-top: -260px;
+}
+
